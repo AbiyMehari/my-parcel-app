@@ -3,16 +3,14 @@
   "source": "index.html",
   "scripts": {
     "dev": "parcel",
-    "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.5",
-    "parcel": "^2.15.2",
+    "parcel": "^2.14.4",
     "tailwindcss": "^4.1.5"
   },
   "dependencies": {
     "leaflet": "^1.9.4"
   }
 }
-
